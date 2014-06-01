@@ -7,15 +7,18 @@ Node Package Network
 Planned Features
 ----------------
 * Distributed Package Registration and Publishing Database
+* Types of Packages
   * Individual user or group accounts are their own package
   * Software (unstable or stable)
   * Software produced by Software
     * Archived builds for platform targets
     * Result of evolutionary algorithms
-  * Data
+  * Website / Wiki
+  * Dataset
   * Periodic Data
   * Live Data
   * Data needing to be processed (distributed workers)
+  * Protocol / Specification
 * Versioning
   * Instant Notification of Updates
 * BitTorrent Downloads
