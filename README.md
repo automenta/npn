@@ -7,8 +7,11 @@ Node Package Network
 Planned Features
 ----------------
 * Distributed Package Registration and Publishing Database
-* Types of Packages
-  * Individual user or group accounts are their own package
+  * UUID
+  * Author/Project namespace
+* Types of "Packages"
+  * Individual user
+  * Organization user
   * Software (unstable or stable)
   * Software produced by Software
     * Archived builds for platform targets
@@ -19,13 +22,17 @@ Planned Features
   * Live Data
   * Data needing to be processed (distributed workers)
   * Protocol / Specification
+  * Wikipedia concept or any semantic web URI
 * Versioning
   * Instant Notification of Updates
+* Manual Code Review & Automatic Analysis / Testing
+* Deploying / Propagation / Cluster Management
 * BitTorrent Downloads
-* Trust Network
-* Dependency Network
-* Interest Network
-* Blockchain authentication
+* Package Metadata
+ * Dependencies Network (Directed Acyclic Graph)
+ * Trust Network
+ * Interest Network
+* Blockchain Authentication
 * Issue & Request Notification
 * Live Debugging and Support
 
