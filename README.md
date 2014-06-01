@@ -23,4 +23,5 @@ Planned Features
 * Dependency Network
 * Interest Network
 * Blockchain authentication
-
+* Issue & Request Notification
+* Live Debugging and Support
