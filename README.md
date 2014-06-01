@@ -18,8 +18,8 @@ Planned Features
     * Result of evolutionary algorithms
   * Website / Wiki
   * Dataset
-   * http://dataprotocols.org/data-packages/
-   * https://github.com/maxogden/dat  
+    * http://dataprotocols.org/data-packages/
+    * https://github.com/maxogden/dat  
   * Periodic Data
   * Live Data
    * Pub/Sub Subscription
@@ -31,7 +31,12 @@ Planned Features
   * Instant Notification of Updates
 * Manual Code Review & Automatic Analysis / Testing
 * Deploying / Propagation / Cluster Management
-* BitTorrent Downloads
+* Transport
+  * HTTP (npm)
+  * DHT (for small files)
+  * Git
+  * BitTorrent
+  * MaidSafe 
 * Package Metadata
  * Dependencies Network (Directed Acyclic Graph)
  * Trust Network
