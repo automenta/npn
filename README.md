@@ -25,3 +25,6 @@ Planned Features
 * Blockchain authentication
 * Issue & Request Notification
 * Live Debugging and Support
+
+
+npm = node package monopoly
