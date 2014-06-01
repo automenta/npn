@@ -1,0 +1,35 @@
+{
+  "name": "npn",
+  "description": "Node Package Network - Decentralized Code Deployment - Beyond 'npm'",
+  "version": "0.0.0",
+  "author": "Earth",
+  "contributors": [
+    {
+      "name": "SeH",
+      "email": "automenta@gmail.com"
+    },
+    {
+      "name": "Wanderer",
+      "email": "mjbecze@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/automenta/npn.git"
+  },
+  "keywords": [
+    "npn",
+    "npm",
+	"package",
+	"p2p",
+	"distributed",
+	"version"
+  ],
+  "dependencies": {
+	"npm":"",
+	"bittorrent-client":""
+  },
+  "scripts": {
+    "start": "node network.js"
+  }
+}
