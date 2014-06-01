@@ -18,8 +18,12 @@ Planned Features
     * Result of evolutionary algorithms
   * Website / Wiki
   * Dataset
+   * http://dataprotocols.org/data-packages/
+   * https://github.com/maxogden/dat  
   * Periodic Data
   * Live Data
+   * Pub/Sub Subscription
+   * Message Queue
   * Data needing to be processed (distributed workers)
   * Protocol / Specification
   * Wikipedia concept or any semantic web URI
