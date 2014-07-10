@@ -41,6 +41,7 @@ Planned Features
  * Dependencies Network (Directed Acyclic Graph)
  * Trust Network
  * Interest Network
+ * https://github.com/spion/npmsearch
 * Blockchain Authentication
 * Issue & Request Notification
 * Live Debugging and Support
